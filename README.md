@@ -20,9 +20,14 @@
 
 ## Tech Stack
 ![Static Badge](https://img.shields.io/badge/HTML-rgb(23%2C36%2C48)?logo=html5)
-![static](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-rgb(23%2C36%2C48)?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Django-rgb(23%2C36%2C48)?logo=django)
+![Static Badge](https://img.shields.io/badge/CSS-rgb(23%2C36%2C48)?logo=CSS3django&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/React-rgb(23%2C36%2C48)?logo=react)
+![Static Badge](https://img.shields.io/badge/Node.js-rgb(23%2C36%2C48)?logo=node.js)
+![Static Badge](https://img.shields.io/badge/MySQL-rgb(23%2C36%2C48)?logo=mysql)
+![Static Badge](https://img.shields.io/badge/Python-rgb(23%2C36%2C48)?logo=python&logoColor=blue-yellow)
+
 
 
 
