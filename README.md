@@ -8,8 +8,8 @@
 </div>
 
 <div>
-  <h6>Hello, I'm Yash Jewalkar, a Full-Stack Developer. I love transforming ideas into code and building seamless Web applications
-</h6>
+  <h5>👨🏻‍💻 About Me
+</h5>
 
 </div>
 
