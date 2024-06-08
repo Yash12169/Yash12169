@@ -1,14 +1,14 @@
-# Your Profile README
+## About Me
 
 <div align="center">
   <hr>
-  <h1>Your Name</h1>
+  <strong>Hello, I'm Yash Jewalkar, a Full-Stack Developer. I love transforming ideas into code and building seamless Web applications
+/strong>
   <hr>
 </div>
 
-## About Me
 
-Hello, I'm [Your Name], a Full-Stack Developer. I love transforming ideas into code and building seamless digital experiences.
+
 
 ## Tech Stack
 
