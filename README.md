@@ -7,18 +7,14 @@
   <hr>
 </div>
 
-<div>
-  <h5 font-size="16px">👨🏻‍💻 About Me
-</h5>
-
-</div>
+##👨🏻‍💻 About Me
 
 💡 I'm a Computer Science student, focusing on Creating Web applications.</br>
 🎓 Currently, I'm pursuing my bachelors degree and diving into the world of Web development and UI/UX design.</br>
 🌱 I have a strong interest in Git, Python, JavaScript, React.js, Node.js, C++, and MySQL.</br>
 ✍️ In my free time, I enjoy exploring new technologies and working on projects related to AI.</br>
 
-## Tech Stack
+## 🛠  Tech Stack
 ![Static Badge](https://img.shields.io/badge/HTML-rgb(23%2C36%2C48)?logo=html5)
 ![Static Badge](https://img.shields.io/badge/JavaScript-rgb(23%2C36%2C48)?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Django-rgb(23%2C36%2C48)?logo=django)
