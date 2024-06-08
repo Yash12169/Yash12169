@@ -1,6 +1,6 @@
 <div align="center">
   <hr>
-  <h2>Hello, I'm Yash Jewalkar, a Full-Stack Developer. I love transforming ideas into code and building seamless Web applications.</h2>
+  <h3>Hello, I'm Yash Jewalkar, a Full-Stack Developer. I love transforming ideas into code and building seamless Web applications.</h3>
   <hr>
 </div>
 
