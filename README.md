@@ -7,12 +7,16 @@
   <hr>
 </div>
 
-# 👨🏻‍💻 About Me
+<div>
+  <h6>Hello, I'm Yash Jewalkar, a Full-Stack Developer. I love transforming ideas into code and building seamless Web applications
+</h6>
 
-💡 I'm a Big Data and AI Master's student, focusing on machine learning and AI fields.
-🎓 Currently, I'm pursuing my master's degree and diving into the world of machine learning and artificial intelligence.
-🌱 I have a strong interest in Flutter, Git, Laravel, PHP, Python, JavaScript, Vue.js, Firebase, Kotlin, Java, and MySQL.
-✍️ In my free time, I enjoy exploring new technologies and working on projects related to data science and AI.
+</div>
+
+💡 I'm a Big Data and AI Master's student, focusing on machine learning and AI fields.</br>
+🎓 Currently, I'm pursuing my master's degree and diving into the world of machine learning and artificial intelligence.</br>
+🌱 I have a strong interest in Flutter, Git, Laravel, PHP, Python, JavaScript, Vue.js, Firebase, Kotlin, Java, and MySQL.</br>
+✍️ In my free time, I enjoy exploring new technologies and working on projects related to data science and AI.</br>
 
 ## Tech Stack
 
