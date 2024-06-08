@@ -7,7 +7,7 @@
   <hr>
 </div>
 
-##👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 💡 I'm a Computer Science student, focusing on Creating Web applications.</br>
 🎓 Currently, I'm pursuing my bachelors degree and diving into the world of Web development and UI/UX design.</br>
