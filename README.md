@@ -8,15 +8,15 @@
 </div>
 
 <div>
-  <h5>👨🏻‍💻 About Me
+  <h5 font-size="16px">👨🏻‍💻 About Me
 </h5>
 
 </div>
 
-💡 I'm a Big Data and AI Master's student, focusing on machine learning and AI fields.</br>
-🎓 Currently, I'm pursuing my master's degree and diving into the world of machine learning and artificial intelligence.</br>
-🌱 I have a strong interest in Flutter, Git, Laravel, PHP, Python, JavaScript, Vue.js, Firebase, Kotlin, Java, and MySQL.</br>
-✍️ In my free time, I enjoy exploring new technologies and working on projects related to data science and AI.</br>
+💡 I'm a Computer Science student, focusing on Creating Web applications.</br>
+🎓 Currently, I'm pursuing my bachelors degree and diving into the world of Web development and UI/UX design.</br>
+🌱 I have a strong interest in Git, Python, JavaScript, React.js, Node.js, C++, and MySQL.</br>
+✍️ In my free time, I enjoy exploring new technologies and working on projects related to AI.</br>
 
 ## Tech Stack
 
