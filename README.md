@@ -17,9 +17,7 @@
 
 ![React](https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-rgb(23%2C36%2C48)?logo=mysql)
 ![Python](https://img.shields.io/badge/Python-rgb(23%2C36%2C48)?logo=python&logoColor=blue-yellow)
-![Express.js](https://img.shields.io/badge/Express.js-rgb(23%2C36%2C48)?logo=express&logoColor=blue-yellow)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![html](https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![insomnia](https://camo.githubusercontent.com/d0ea7d34e62fe1b2be4b3b5c3299244af30197318af93fe9640e823cf108b380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e736f6d6e69612d3538343942453f7374796c653d666c61742d737175617265266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465)
@@ -31,6 +29,7 @@
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Express-%23303030?style=flat-square&logo=express&logoColor=white)
 
 
 
