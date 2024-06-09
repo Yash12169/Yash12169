@@ -28,7 +28,6 @@
 ![Static Badge](https://img.shields.io/badge/Django%20Rest%20Framework-orange?style=flat-square&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express-%23303030?style=flat-square&logo=express&logoColor=white)
-![badge](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
 
