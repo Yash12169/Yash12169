@@ -15,10 +15,7 @@
 
 ## 🛠 Tech Stack
 
-![Django](https://img.shields.io/badge/Django-rgb(23%2C36%2C48)?logo=django)
-![CSS](https://img.shields.io/badge/CSS-rgb(23%2C36%2C48)?logo=CSS3&logoColor=blue)
 ![React](https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
-![Node.js](https://img.shields.io/badge/Node.js-rgb(23%2C36%2C48)?logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-rgb(23%2C36%2C48)?logo=mysql)
 ![Python](https://img.shields.io/badge/Python-rgb(23%2C36%2C48)?logo=python&logoColor=blue-yellow)
 ![Express.js](https://img.shields.io/badge/Express.js-rgb(23%2C36%2C48)?logo=express&logoColor=blue-yellow)
@@ -29,6 +26,11 @@
 ![npm](https://camo.githubusercontent.com/1fd2aacb73a7adf08ce72b0874d4e69812296d555bd13f4e98fab5d29d21a5ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
 ![Node](https://camo.githubusercontent.com/85f7d55972c294b45f6c2f5822b9c569f215a3ca256be9e3283c122a9f6e6fe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![Mongo](https://camo.githubusercontent.com/bb133f9a48e0ad5238b369d19d4cfe1a950a59a3cf7f0d846a90272031488ca1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![Static Badge](https://img.shields.io/badge/Django-rgb(9%2C46%2C32)?style=flat-square&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-blue?sty![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
+le=flat-square&logo=css3&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 ## Connect with Me
 
