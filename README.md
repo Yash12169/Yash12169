@@ -27,8 +27,8 @@
 ![Node](https://camo.githubusercontent.com/85f7d55972c294b45f6c2f5822b9c569f215a3ca256be9e3283c122a9f6e6fe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![Mongo](https://camo.githubusercontent.com/bb133f9a48e0ad5238b369d19d4cfe1a950a59a3cf7f0d846a90272031488ca1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 ![Static Badge](https://img.shields.io/badge/Django-rgb(9%2C46%2C32)?style=flat-square&logo=django&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-blue?st![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=whitele=flat-square&logo=css3&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## Connect with Me
