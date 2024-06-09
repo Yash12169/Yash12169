@@ -26,10 +26,11 @@
 ![Mongo](https://camo.githubusercontent.com/bb133f9a48e0ad5238b369d19d4cfe1a950a59a3cf7f0d846a90272031488ca1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 ![Static Badge](https://img.shields.io/badge/Django-rgb(9%2C46%2C32)?style=flat-square&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django%20Rest%20Framework-orange?style=flat-square&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express-%23303030?style=flat-square&logo=express&logoColor=white)
 ![badge](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
 
 
 
