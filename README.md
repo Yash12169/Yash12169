@@ -1,8 +1,7 @@
-<div align="center">
-  <hr>
-  <h3>Hello, I'm Yash Jewalkar, a Full-Stack Developer. I love transforming ideas into code and building seamless Web applications.</h3>
-  <hr>
-</div>
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Yash Jewalkar</h1>
 
 ![My Tech Stack Banner](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
