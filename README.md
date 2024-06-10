@@ -2,6 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Yash Jewalkar</h1>
+<hr>
+         
 ![My Tech Stack Banner](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 ## 👨🏻‍💻 About Me
