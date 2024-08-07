@@ -3,9 +3,9 @@
          height="45"
          width="45" /> I'm Yash Jewalkar</h1>
 <hr>
-         
-![My Tech Stack Banner](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-
+         <div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
 ## 👨🏻‍💻 About Me
 
 - 💡 I'm a Computer Science student, focusing on creating Web applications.
