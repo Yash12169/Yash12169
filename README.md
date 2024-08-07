@@ -15,6 +15,29 @@
 - 🌱 I have a strong interest in Git, Python, JavaScript, React.js, Node.js, C++, and MySQL.
 - ✍️ In my free time, I enjoy exploring new technologies and working on projects related to AI.
 
+
+
+
+
+
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yash12169/Yash12169/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yash12169/Yash12169/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Yash12169/Yash12169/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
+
+
+
+
+
+
 ## 🛠 Tech Stack
 
 ![React](https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
