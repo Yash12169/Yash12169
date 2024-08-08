@@ -23,8 +23,7 @@ Fullstack Developer
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BTECH-MITS-CS'26-1877F2?style=for-the-badge"></span>
   
 </details>
  <details>
