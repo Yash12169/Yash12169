@@ -34,17 +34,12 @@ Fullstack Developer
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
-  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
+- **SDE Intern** at ApexByte IT consultancy and Services (Remote) | July 2024 - Aug 2024
+  - Successfully managed multiple projects simultaneously, collaborating closely with clients to understand their requirements and deliver customized web solutions
   - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
   - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
 
-- **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
-  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
-  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
 
-- **Content Writer Intern** at Toppr Learning Inc (Remote) | Jul 2021 - Oct 2021
-  - Transformed JEE Mathematics learning for over 10 batches by designing innovative visual-based presentations and solutions.
 </details>
   
 <details>
