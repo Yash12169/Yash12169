@@ -125,9 +125,6 @@ Coding
   - A **Web Design** project which was innovated to improve UI/UX experience of Baskin Robbing India website
   - **Impact:** qualified for second round in **Reimagine Hackathon** organised by **Sheryians Coding School**.
 
-  #### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</a>
-  <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
-  - Integrated ordering medicines, facts, and quotes to lighten up the user, light/dark mode, with the future plan of integrating notification system and Calorie/BMI calculator.
 </details>
 
 </details>
