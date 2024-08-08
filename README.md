@@ -96,10 +96,9 @@ Coding
   - **Features:** Supports individual and group conversations, multimedia sharing, and various interactive features.
   - **Impact:** Serves **200+** college students across college campus..
 
-#### <a href="https://github.com/ParthJohri/Google-AMD-Hackathon">SocialVista</a>
+#### <a href="https://github.com/Yash12169/social_media_project">SocialVista</a>
  
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
@@ -110,10 +109,21 @@ Coding
   -**Features:** Facilitates networking, communication, and content dissemination among individuals, groups, and organizations.
   - **Impact:** Easy and Intuitive UI/UX which facilitated direct communication b/w friends & family, with a secure Database and easy maintenance.
     
-  #### <a href="https://github.com/ParthJohri/Face-flix">Face-Flix</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
-  - Innovated a facial expression-based movie recommendation engine, amplifying user engagement by **30%** through personalized suggestions based on mood analysis.
-  - **Impact:** Enhanced movie exploration, resulting in an increase in user satisfaction by **10%** to **30%**.
+  #### <a href="https://github.com/Yash12169/The-Scripting-Squad-ReimagineRound1">Ather Redesigned</a>
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+  - A **Web Design** project which was innovated to improve UI/UX experience of Ather Electric website
+  - **Impact:** Won first round in **Reimagine Hackathon** organised by **Sheryians Coding School**.
+
+
+
+#### <a href="https://github.com/Yash12169/The-Scripting-Squad-ReimagineRound2">Baskin Robbing Redesigned</a>
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)   
+  - A **Web Design** project which was innovated to improve UI/UX experience of Baskin Robbing India website
+  - **Impact:** qualified for second round in **Reimagine Hackathon** organised by **Sheryians Coding School**.
 
   #### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</a>
   <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
