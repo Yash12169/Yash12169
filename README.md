@@ -131,8 +131,8 @@ Coding
 
   ### Leetcode
   <div align="center">
-  <a href="https://leetcode.com/binarysolver">
-  <img height="316" src="https://leetcard.jacoblin.cool/binarysolver?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/binarysolver/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Binary Solver Leetcode Stats"/>
+  <a href="https://leetcode.com/u/yash13169/">
+  <img height="316" src="https://leetcard.jacoblin.cool/yash13169?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/yash13169/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash's Leetcode Stats"/>
   </a>
  </div>
 
