@@ -219,14 +219,7 @@ Fullstack Developer
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  
-  </div>
-</details>
+
 
 <div align="center">
   <picture>
