@@ -139,8 +139,8 @@ Coding
 
   ### Codeforces
   <div align="center">
-    <a href="https://codeforces.com/profile/binarysolver">
-      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver&theme=github_dark&force_username=true&border_color=404040" alt="Binary Solver Codeforces Stats"/>
+    <a href="https://codeforces.com/profile/Yash13169">
+      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Yash13169&theme=github_dark&force_username=true&border_color=404040" alt="Yash's Codeforces Stats"/>
     </a>
   </div>
   
