@@ -13,7 +13,7 @@ Fullstack Developer
 
 - 💡 I'm a Computer Science student, focusing on creating Web applications.
 - 🎓 Currently, I'm pursuing my bachelor's degree and diving into the world of Web development and UI/UX design.
-- 🌱 I have a strong interest in Git, Python, JavaScript, React.js, Node.js, C++, and MySQL.
+- 🌱 I have a strong interest in Git, Python, JavaScript, React.js, Node.js, C++, Django and MySQL.
 - ✍️ In my free time, I enjoy exploring new technologies and working on projects related to AI.
 
 Coding
