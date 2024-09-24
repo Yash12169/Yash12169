@@ -9,4 +9,3 @@ Fullstack Developer
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yash12169)](https://github.com/ryo-ma/github-profile-trophy)
