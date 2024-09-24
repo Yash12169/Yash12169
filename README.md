@@ -4,12 +4,9 @@ Fullstack Developer
 
 </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yash12169)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yh010&label=Profile%20views&color=0e75b6&style=flat" alt="yh010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yh010" alt="yh010" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yashhegde7" target="blank"><img src="https://img.shields.io/twitter/follow/yashhegde7?logo=twitter&style=for-the-badge" alt="yashhegde7" /></a> </p>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
