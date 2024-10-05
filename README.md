@@ -5,6 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yash12169&title=-Reviews,-Followers" alt="yh010" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yh010&title=-Reviews,-Followers" alt="yh010" />
   </a>
 </div>
